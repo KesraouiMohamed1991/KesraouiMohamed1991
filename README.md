@@ -1,9 +1,6 @@
 
 
-<!--
-**KesraouiMohamed1991/KesraouiMohamed1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 👋 Hi, I’m @kesraouiMohamed
 😇 I'm 32 years old
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 📫 How to reach me: kesraouidev@gmail.com
 📕 My portfolio is a work in progress. To report issues, you can go here.
 
--->
+
