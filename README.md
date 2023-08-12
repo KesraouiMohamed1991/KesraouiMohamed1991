@@ -10,7 +10,7 @@
 
 </div>
 
--  👨‍💻 I'm a **Développeur Front-end en formation** at [Your Company Name](https://your-company-website.com).
+-  👨‍💻 I'm a **Développeur Front-end en formation.
 -  ⌨️ I code often in **HTML**, **CSS**, and **JavaScript**.
 -  💭 I'm currently learning **React**.
 -  ☁️ I enjoy working with **VS Code**.
