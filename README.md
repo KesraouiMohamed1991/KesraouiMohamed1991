@@ -10,11 +10,11 @@
 
 </div>
 
--  👨‍💻 I'm a **Développeur Front-end en formation.
+-  👨‍💻 I'm a front-end Developer.
 -  ⌨️ I code often in **HTML**, **CSS**, and **JavaScript**.
 -  💭 I'm currently learning **React**.
 -  ☁️ I enjoy working with **VS Code**.
--  📝 A brief description: Hi, I'm Mohamed, a frontend developer from France. Currently learning JavaScript and exploring new technologies in the frontend world.
+-  📝 A brief description: Hi, I'm Mohamed, a frontend developer from France. Currently learning React and exploring new technologies in the frontend world.
 
 
 
