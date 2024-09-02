@@ -11,10 +11,9 @@
 </div>
 
 -  👨‍💻 I'm a front-end Developer.
--  ⌨️ I code often in **HTML**, **CSS**, and **JavaScript**.
--  💭 I'm currently learning **React**.
+-  ⌨️ I code often in **React** and  **Tailwindcss**.
+-  💭 I'm currently learning **React Three Fiber**.
 -  ☁️ I enjoy working with **VS Code**.
--  📝 Hi, I'm Mohamed, a frontend developer from France. Currently learning React and exploring new technologies in the frontend world.
 
 
 
